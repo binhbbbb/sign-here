@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/CaptainCodemansign-here)
+[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/CaptainCodemansign-here.svg)](https://vaadin.com/directory/component/CaptainCodemansign-here)
+
 _[Demo and API docs](http://captaincodeman.github.io/sign-here/)_
 
 ##&lt;sign-here&gt;
